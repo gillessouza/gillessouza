@@ -5,7 +5,7 @@
 
 
 
-![Lincoln GitHub stats](https://github-readme-stats.vercel.app/api?username=gillessouza&theme=dracula)
+![Gilles GitHub stats](https://github-readme-stats.vercel.app/api?username=gillessouza&theme=dracula)
 <br/>
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gillessouza&layout=compact)
@@ -45,6 +45,7 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
     <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 <br/>
 <h2>Linters</h2>
@@ -52,7 +53,7 @@
     <img align="center" alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
 </div>
 <br/>
-<h2>SO</h2>
+<h2>S.O.</h2>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
