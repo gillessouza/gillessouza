@@ -32,12 +32,7 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br/>
-<h2>ORM</h2>
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-</div>
-<br/>
 <h2>IDE</h2>
 
 <div style="display: inline_block"><br/>
@@ -45,11 +40,7 @@
     <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
-<br/>
-<h2>Linters</h2>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-</div>
+
 <br/>
 <h2>S.O.</h2>
 
