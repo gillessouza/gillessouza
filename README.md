@@ -22,6 +22,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="GNU Bash" src="https://camo.githubusercontent.com/5d36314cd8857daf7b65dbd7dd631e7a62463ff001d99cdab7380f3a307904bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474e55253230426173682d3445414132353f6c6f676f3d676e7562617368266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765">
     <img align="center" alt="Shell_Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+     <img align="center" alt="Python" src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e>
     
 </div>
 <br/>
